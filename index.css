@@ -1,0 +1,16 @@
+body {
+    background-image: url('C:\Users\igor.rizzo\OneDrive - OURO FINO QUIMICA SA\Área de Trabalho\testandoBigode\testandoQualidadeImg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+html body{
+    border: 0;
+    margin: 0;
+    height: 100%;
+    display: block;
+    width: auto;
+}
+
+  
